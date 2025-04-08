@@ -2,7 +2,7 @@
 
 ![Data Science Enthusiast | Machine Learning & AI Enthusiast]![image alt](https://github.com/Olisebinum/olisebinum_Bio_Repo/blob/45eefa6b1add5be5f80eaaa6596b093f704e6b5f/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 
-👨‍💻 About Me
+👨‍💻 About Me<br>
 Data Scientist passionate about machine learning, AI, and turning data into valuable insights. Focused on continuous learning and contributing to the data science community.
 
 Skills: <br> Python / SQL / Power BI / Excel / Pandas / NumPy / Scikit-learn / Matplotlib / Seaborn / Data Wrangling / Data Visualization / Machine Learning / Jupyter Notebook / Git / Tableau / Google Sheets
