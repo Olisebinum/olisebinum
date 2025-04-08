@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Olise Ebinum
 #### Data Science Enthusiast | Machine Learning & AI Enthusiast
-![Data Science Enthusiast | Machine Learning & AI Enthusiast]![My Canva Design](https://your-image-link.com/design-preview.png)
-
+![Data Science Enthusiast | Machine Learning & AI Enthusiast](![My Canva Design](https://your-image-link.com/design-preview.png))
 
 👨‍💻 About Me
 Data Scientist passionate about machine learning, AI, and turning data into valuable insights. Focused on continuous learning and contributing to the data science community.
-
-
 
 Skills: Python / SQL / Power BI / Excel / Pandas / NumPy / Scikit-learn / Matplotlib / Seaborn / Data Wrangling / Data Visualization / Machine Learning / Jupyter Notebook / Git / Tableau / Google Sheets
 
