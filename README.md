@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Olise Ebinum
 #### Data Science Enthusiast | Machine Learning & AI Enthusiast
-![Data Science Enthusiast | Machine Learning & AI Enthusiast](![image alt](https://github.com/Olisebinum/olisebinum_Bio_Repo/blob/45eefa6b1add5be5f80eaaa6596b093f704e6b5f/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png))
+####![Data Science Enthusiast | Machine Learning & AI Enthusiast]![image alt](https://github.com/Olisebinum/olisebinum_Bio_Repo/blob/45eefa6b1add5be5f80eaaa6596b093f704e6b5f/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 
 👨‍💻 About Me
 Data Scientist passionate about machine learning, AI, and turning data into valuable insights. Focused on continuous learning and contributing to the data science community.
