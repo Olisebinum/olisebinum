@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Olise Ebinum
 #### Data Science Enthusiast | Machine Learning & AI Enthusiast
-![image alt](https://github.com/Olisebinum/olisebinum_Bio_Repo/blob/45eefa6b1add5be5f80eaaa6596b093f704e6b5f/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+![Data Science Enthusiast | Machine Learning & AI Enthusiast](![image alt](https://github.com/Olisebinum/olisebinum_Bio_Repo/blob/45eefa6b1add5be5f80eaaa6596b093f704e6b5f/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png))
 
-👨‍💻 About Me <br>
+👨‍💻 About Me
 Data Scientist passionate about machine learning, AI, and turning data into valuable insights. Focused on continuous learning and contributing to the data science community.
 
 Skills: Python / SQL / Power BI / Excel / Pandas / NumPy / Scikit-learn / Matplotlib / Seaborn / Data Wrangling / Data Visualization / Machine Learning / Jupyter Notebook / Git / Tableau / Google Sheets
@@ -17,5 +17,19 @@ Skills: Python / SQL / Power BI / Excel / Pandas / NumPy / Scikit-learn / Matplo
 - ⚡ Fun fact: When I’m not working with data, you’ll catch me playing soccer or watching movies—two of my favorite ways to unwind! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Olisebinum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/olisebinum//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.datascienceportfol.io/olisebinum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/k1ngn31l)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Olisebinum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/olisebinum//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.datascienceportfol.io/olisebinum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/k1ngn31l)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Olisebinum)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olisebinum)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Olisebinum&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Olisebinum/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Olisebinum)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Olisebinum)  
 
