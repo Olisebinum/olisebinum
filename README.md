@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Olise Ebinum
 #### Data Science Enthusiast | Machine Learning & AI Enthusiast
-![Data Science Enthusiast | Machine Learning & AI Enthusiast](https://www.canva.com/design/DAGkEO_-FXI/hSHsObVyM2LTy-guwnxcEw/edit?utm_content=DAGkEO_-FXI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Data Science Enthusiast | Machine Learning & AI Enthusiast]([Check out my Canva design](https://www.canva.com/design/DAGkEO_-FXI/hSHsObVyM2LTy-guwnxcEw/edit?utm_content=DAGkEO_-FXI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 👨‍💻 About Me
 Data Scientist passionate about machine learning, AI, and turning data into valuable insights. Focused on continuous learning and contributing to the data science community.
