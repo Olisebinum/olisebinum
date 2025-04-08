@@ -5,7 +5,8 @@
 👨‍💻 About Me<br>
 Data Scientist passionate about machine learning, AI, and turning data into valuable insights. Focused on continuous learning and contributing to the data science community.
 
-Skills:<br> Python / SQL / Power BI / Excel / Pandas / NumPy / Scikit-learn / Matplotlib / Seaborn / Data Wrangling / Data Visualization / Machine Learning / Jupyter Notebook / Git / Tableau / Google Sheets
+Skills:<br>  🐍 Python 🧮 SQL 📊 Power BI 📈 Excel 🐼 Pandas 🔢 NumPy 🤖 Scikit-learn 📉 Matplotlib 🎨 Seaborn 🧹 Data Wrangling 🧠 Machine Learning 🧰 Data Visualization 📓 Jupyter Notebook 🧬 Git 📊 Tableau 🗂️ Google Sheets
+
 
 - 🔭 I’m currently working on I'm currently working on several exciting data science projects, including:  Predicting Housing Prices using regression models. Building a Machine Learning-based Stock Market Prediction Model with LSTM networks. Creating an Interactive Dashboard to visualize global COVID-19 trends in real-time. 
 - 🌱 I’m currently learning I’m currently learning more advanced techniques in deep learning and natural language processing (NLP). I'm diving into reinforcement learning to better understand how AI can optimize decision-making processes, and I'm also refining my skills in cloud computing to deploy machine learning models at scale. Additionally, I’m exploring time series analysis for forecasting, with a focus on stock prices and economic trends.  I'm excited about the potential these technologies have to drive innovation in various industries, and I’m always eager to learn and apply new methods to solve real-world problems! 
